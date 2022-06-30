@@ -23,7 +23,7 @@ async def start(c, m):
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('مطوري', url=f"https://t.me/TTTLL0")
+            InlineKeyboardButton('مطوري', url=f"https://t.me/S_Y_W")
         ]
     ]
     await m.reply_text(
